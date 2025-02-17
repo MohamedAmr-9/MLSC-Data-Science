@@ -8,7 +8,7 @@ Objectives of the Project: To predict whether a Near-Earth Object (NEO) is hazar
 
 Source: NASA NEO Dataset (1910-2024)
 Number of Records: 338,199
-Target Variable: is_hazardous (0 = Not Hazardous, 1 = Hazardous)
+Target Variable: is_hazardous
 
 🛠 Project Workflow
 
